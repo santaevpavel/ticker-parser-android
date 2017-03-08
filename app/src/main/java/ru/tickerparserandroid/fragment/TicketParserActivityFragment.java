@@ -1,4 +1,4 @@
-package ru.tickerparserandroid;
+package ru.tickerparserandroid.fragment;
 
 import android.content.Intent;
 import android.databinding.DataBindingUtil;
@@ -10,6 +10,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import ru.tickerparserandroid.R;
 import ru.tickerparserandroid.databinding.FragmentTicketParserBinding;
 
 import static android.app.Activity.RESULT_OK;

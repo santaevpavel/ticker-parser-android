@@ -1,8 +1,10 @@
-package ru.tickerparserandroid;
+package ru.tickerparserandroid.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+
+import ru.tickerparserandroid.R;
 
 public class TicketParserActivity extends AppCompatActivity {
 
